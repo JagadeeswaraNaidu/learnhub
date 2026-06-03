@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# next
+.next/
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# vercel
+.vercel/
+
+# build
+out/
+build/
+
+# logs
+*.log
