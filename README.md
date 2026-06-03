@@ -4,7 +4,7 @@ A futuristic student learning dashboard built with Next.js, Supabase, Tailwind C
 
 ## Live Demo
 
-Vercel Deployment: [Add your Vercel URL]
+Vercel Deployment: [Vercel Deployment](https://learnhub-eight-fawn.vercel.app/)
 
 ## Tech Stack
 
